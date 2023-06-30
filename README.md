@@ -1,1 +1,1 @@
-just a qrcode generator because google gives cringe grcode generating websites
+just a qrcode generator because google gives cringe qrcode generating websites
